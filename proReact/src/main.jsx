@@ -8,7 +8,7 @@ import Personaje from "./pages/personaje";
 import NotFound from "./pages/404";
 /* import anadir from './pages/añadir'; */
 import "./index.css";
-
+//añadir lo otro
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     <BrowserRouter basename="/">
