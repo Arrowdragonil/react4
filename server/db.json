@@ -1,0 +1,30 @@
+{
+    "personajes": [
+        { 
+          "id": 1, 
+          "name": "David", 
+          "surname":"Martinez",
+          "image": "https://res.cloudinary.com/di5oqdvwa/image/upload/v1667211218/imagenes/David-Martinez-Anime-Cyberpunk-2077-Edgerunners-Leather-Jacket_bf02ue.jpg",
+          "info": "Un muchacho de ascendencia hispana que es uno de los mejores estudiantes de la prestigiosa Academia Arasaka. Debido a que nació en una familia pobre, sus compañeros de clase lo acosan constantemente y siente que no pertenece a aquel mundo. Una tragedia personal repentina y devastadora (la muerte de su madre) hace que finalmente lo lleve a abandonar su educación y lo pone en el camino de convertirse en uno de los edgerunners de Night City.",
+          "song":"https://res.cloudinary.com/di5oqdvwa/video/upload/v1667323190/musica/David_Martinez_Cyberpunk_Edgerunners_Rap_Rock_Mi_cruel_Destino_Doblecero_Feat_Basti%C3%A1n_Cort%C3%A9s_nsepyi.mp4" 
+        },
+         {
+            "id":2,
+            "name":"Lucy",
+            "surname":"Kushinada",
+            "image":"https://res.cloudinary.com/di5oqdvwa/image/upload/v1667307621/imagenes/Lucyna.Kushinada.600.3760975_qmix9y.jpg",
+            "info": "Una bella y joven netrunner que se involucra románticamente con David y le presenta el inframundo criminal de Night City. Es bastante introvertida y no le gusta hablar mucho sobre su pasado (se debe a que tiene un odio hacia Arasaka Corporation, razón por la que le gusta robarles el dinero a sus empleados). Ella considera a Night City una prisión y tiene el sueño de escapar algún día hacia la Luna.",
+            "song":"https://res.cloudinary.com/di5oqdvwa/video/upload/v1667309855/musica/I_Really_Want_to_Stay_at_Your_House_-_Hallie_Coggins_Cover_nqpakd.mp4"
+         },
+         {
+            "id":3,
+            "name":"Rebecca",
+            "surname":"",
+            "image":"https://res.cloudinary.com/di5oqdvwa/image/upload/v1667326320/imagenes/geekmi_-_2022-10-12t154017_509.jpg_172596871_elwrhy.jpg",
+            "info": "Hermana menor de Pilar y una edgerunner de Night City. Se la describe como una solo de baja estatura, valiente y de gatillo sencilla, que siempre está peleando con Pilar. Al igual que Pilar, se une junto a él al grupo de edgerunners de Maine para poder trabajar como mercenarios.",
+            "song":"https://res.cloudinary.com/di5oqdvwa/video/upload/v1667327687/musica/Nightcore_Ready_To_Kill_NEFFEX_ehislm.mp4"
+         }
+        
+        ]
+
+}
